@@ -1,6 +1,6 @@
 # Psychological Assessment Toolkit
 
-A modular **Python-based GUI system** for administering psychological questionnaires digitally in research studies.
+A **Python-based GUI system** for administering psychological questionnaires digitally in research studies.
 The toolkit dynamically loads questionnaires from **JSON configuration files**, allowing researchers to easily add, modify, or customize assessments without changing the program code.
 
 The system supports **multiple questionnaire formats, reverse scoring, subscale scoring, and automatic data export**, making it suitable for experimental research, surveys, and psychological assessments.
