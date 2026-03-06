@@ -1,0 +1,34 @@
+{
+  "id": "CUSTOM_LIKERT",
+  "name": "Custom Likert Questionnaire",
+  "type": "likert",
+  "scale": [1, 2, 3, 4],
+  "instructions": "Please indicate how much each statement applies to you.",
+
+  "reverse_items": [
+    "Q1", "Q2", "Q5", "Q8", "Q10"
+  ],
+
+  "questions": [
+    {"id": "Q1", "text": "Add your questions"},
+    {"id": "Q2", "text": "Add your questions"},
+    {"id": "Q3", "text": "Add your questions"},
+    {"id": "Q4", "text": "Add your questions"},
+    {"id": "Q5", "text": "Add your questions"},
+    {"id": "Q6", "text": "Add your questions"},
+    {"id": "Q7", "text": "Add your questions"},
+    {"id": "Q8", "text": "Add your questions"},
+    {"id": "Q9", "text": "Add your questions"},
+    {"id": "Q10", "text": "Add your questions"},
+    {"id": "Q11", "text": "Add your questions"},
+    {"id": "Q12", "text": "Add your questions"},
+    {"id": "Q13", "text": "Add your questions"},
+    {"id": "Q14", "text": "Add your questions"},
+    {"id": "Q15", "text": "Add your questions"},
+    {"id": "Q16", "text": "Add your questions"},
+    {"id": "Q17", "text": "Add your questions"},
+    {"id": "Q18", "text": "Add your questions"},
+    {"id": "Q19", "text": "Add your questions"},
+    {"id": "Q20", "text": "Add your questions"}
+  ]
+}

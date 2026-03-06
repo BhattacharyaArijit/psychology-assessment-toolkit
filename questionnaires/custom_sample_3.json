@@ -1,0 +1,57 @@
+{
+  "id": "CUSTOM_MULTI",
+  "name": "Custom Multi-Statement Questionnaire",
+  "type": "multi_statement",
+
+  "instructions": "For each item below, choose the statement that best describes your experience. Select only one option per item.",
+
+  "scale": {
+    "min": 0,
+    "max": 3
+  },
+
+  "questions": [ 
+    {
+      "id": "Q1",
+      "label": "Q1",
+      "options": [
+        {"score": 0, "text": "Option 0 - Not at all"},
+        {"score": 1, "text": "Option 1 - Slightly"},
+        {"score": 2, "text": "Option 2 - Moderately"},
+        {"score": 3, "text": "Option 3 - Extremely"}
+      ]
+    },
+    {
+      "id": "Q2",
+      "label": "Q2",
+      "options": [
+        {"score": 0, "text": "Option 0 - Not at all"},
+        {"score": 1, "text": "Option 1 - Slightly"},
+        {"score": 2, "text": "Option 2 - Moderately"},
+        {"score": 3, "text": "Option 3 - Extremely"}
+      ]
+    },
+    {
+      "id": "Q3",
+      "label": "Q3",
+      "options": [
+        {"score": 0, "text": "Option 0 - Not at all"},
+        {"score": 1, "text": "Option 1 - Slightly"},
+        {"score": 2, "text": "Option 2 - Moderately"},
+        {"score": 3, "text": "Option 3 - Extremely"}
+      ]
+    }
+  ],
+
+  "reverse_items": [],
+
+  "scoring": {
+    "method": "sum",
+    "range": [0, 9],
+    "interpretation": {
+      "low": [0, 3],
+      "moderate": [4, 6],
+      "high": [7, 9]
+    }
+  }
+}

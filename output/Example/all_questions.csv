@@ -1,0 +1,31 @@
+SubjectID,Date,Question,Raw,ReverseCoded,ResponseTime_sec,Status,TotalDuration_sec
+Example,2026-03-06,Custom Questionnaire - Subscale Template_Q1,1,5,5.14,submitted,62.49
+Example,2026-03-06,Custom Questionnaire - Subscale Template_Q2,2,2,6.43,submitted,62.49
+Example,2026-03-06,Custom Questionnaire - Subscale Template_Q3,3,3,7.27,submitted,62.49
+Example,2026-03-06,Custom Questionnaire - Subscale Template_Q4,4,4,8.53,submitted,62.49
+Example,2026-03-06,Custom Questionnaire - Simple_Q1,1,1,10.75,submitted,62.49
+Example,2026-03-06,Custom Questionnaire - Simple_Q2,2,2,11.77,submitted,62.49
+Example,2026-03-06,Custom Questionnaire - Simple_Q3,5,5,13.52,submitted,62.49
+Example,2026-03-06,Custom Multi-Statement Questionnaire_Q1,0,0,17.31,submitted,62.49
+Example,2026-03-06,Custom Multi-Statement Questionnaire_Q2,2,2,19.13,submitted,62.49
+Example,2026-03-06,Custom Multi-Statement Questionnaire_Q3,3,3,20.44,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q1,1,4,25.26,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q2,2,3,25.98,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q3,3,3,26.81,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q4,4,4,27.85,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q5,1,4,29.48,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q6,2,2,30.29,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q7,3,3,35.06,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q8,4,1,35.76,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q9,1,1,36.74,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q10,2,3,37.84,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q11,3,3,38.88,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q12,4,4,41.97,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q13,4,4,43.04,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q14,3,3,43.62,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q15,2,2,44.46,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q16,1,1,46.93,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q17,4,4,47.87,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q18,3,3,48.67,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q19,2,2,52.81,submitted,62.49
+Example,2026-03-06,Custom Likert Questionnaire_Q20,1,1,53.33,submitted,62.49

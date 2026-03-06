@@ -1,0 +1,258 @@
+{
+  "id": "BDI",
+  "name": "Beck Depression Inventory",
+  "type": "multi_statement",
+
+  "instructions": "For each numbered item below, choose the statement that best describes your feelings. Select only one statement per item.",
+
+  "scale": {
+    "min": 0,
+    "max": 3
+  },
+
+  "questions": [
+
+    {
+      "id": "BDI_Q1",
+      "label": "BDI Q1",
+      "options": [
+        {"score": 0, "text": "I do not feel sad"},
+        {"score": 1, "text": "I feel sad"},
+        {"score": 2, "text": "I am sad all the time"},
+        {"score": 3, "text": "I am so sad or unhappy that I can't stand it"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q2",
+      "label": "BDI Q2",
+      "options": [
+        {"score": 0, "text": "I am not discouraged about my future"},
+        {"score": 1, "text": "I feel discouraged about the future"},
+        {"score": 2, "text": "I feel I have nothing to look forward to"},
+        {"score": 3, "text": "I feel the future is hopeless"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q3",
+      "label": "BDI Q3",
+      "options": [
+        {"score": 0, "text": "I do not feel like a failure"},
+        {"score": 1, "text": "I feel I have failed more than the average person"},
+        {"score": 2, "text": "When I look back on my life, I see a lot of failures"},
+        {"score": 3, "text": "I feel I am a complete failure as a person"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q4",
+      "label": "BDI Q4",
+      "options": [
+        {"score": 0, "text": "I get as much satisfaction out of things as I used to"},
+        {"score": 1, "text": "I don't enjoy things the way I used to"},
+        {"score": 2, "text": "I don't get real satisfaction out of anything anymore"},
+        {"score": 3, "text": "I am dissatisfied or bored with everything"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q5",
+      "label": "BDI Q5",
+      "options": [
+        {"score": 0, "text": "I don't feel particularly guilty"},
+        {"score": 1, "text": "I feel guilty a good part of the time"},
+        {"score": 2, "text": "I feel quite guilty most of the time"},
+        {"score": 3, "text": "I feel guilty all of the time"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q6",
+      "label": "BDI Q6",
+      "options": [
+        {"score": 0, "text": "I don't feel I am being punished"},
+        {"score": 1, "text": "I feel I may be punished"},
+        {"score": 2, "text": "I expect to be punished"},
+        {"score": 3, "text": "I feel I am being punished"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q7",
+      "label": "BDI Q7",
+      "options": [
+        {"score": 0, "text": "I don't feel disappointed in myself"},
+        {"score": 1, "text": "I am disappointed in myself"},
+        {"score": 2, "text": "I am disgusted with myself"},
+        {"score": 3, "text": "I hate myself"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q8",
+      "label": "BDI Q8",
+      "options": [
+        {"score": 0, "text": "I don't feel I am worse than anybody else"},
+        {"score": 1, "text": "I am critical of myself for my weaknesses"},
+        {"score": 2, "text": "I blame myself all the time for my faults"},
+        {"score": 3, "text": "I blame myself for everything bad that happens"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q9",
+      "label": "BDI Q9",
+      "options": [
+        {"score": 0, "text": "I don't have thoughts of killing myself"},
+        {"score": 1, "text": "I have thoughts of killing myself but would not carry them out"},
+        {"score": 2, "text": "I would like to kill myself"},
+        {"score": 3, "text": "I would kill myself if I had the chance"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q10",
+      "label": "BDI Q10",
+      "options": [
+        {"score": 0, "text": "I don't cry any more than usual"},
+        {"score": 1, "text": "I cry more now than I used to"},
+        {"score": 2, "text": "I cry all the time now"},
+        {"score": 3, "text": "I used to be able to cry but now I can't cry even if I want to"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q11",
+      "label": "BDI Q11",
+      "options": [
+        {"score": 0, "text": "I am no more irritated by things than I ever was"},
+        {"score": 1, "text": "I am slightly more irritated now than usual"},
+        {"score": 2, "text": "I am quite annoyed or irritated a good deal of the time"},
+        {"score": 3, "text": "I feel irritated all the time"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q12",
+      "label": "BDI Q12",
+      "options": [
+        {"score": 0, "text": "I have not lost interest in other people"},
+        {"score": 1, "text": "I am less interested in other people than I used to be"},
+        {"score": 2, "text": "I have lost most of my interest in other people"},
+        {"score": 3, "text": "I have lost all of my interest in other people"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q13",
+      "label": "BDI Q13",
+      "options": [
+        {"score": 0, "text": "I make decisions about as well as I ever could"},
+        {"score": 1, "text": "I put off making decisions more than I used to"},
+        {"score": 2, "text": "I have greater difficulty in making decisions than before"},
+        {"score": 3, "text": "I can't make decisions at all anymore"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q14",
+      "label": "BDI Q14",
+      "options": [
+        {"score": 0, "text": "I don't feel that I look any worse than I used to"},
+        {"score": 1, "text": "I am worried that I am looking old or unattractive"},
+        {"score": 2, "text": "I feel that there are permanent changes in my appearance that make me look unattractive"},
+        {"score": 3, "text": "I believe that I look ugly"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q15",
+      "label": "BDI Q15",
+      "options": [
+        {"score": 0, "text": "I can work about as well as before"},
+        {"score": 1, "text": "It takes extra effort to get started at doing something"},
+        {"score": 2, "text": "I have to push myself very hard to do anything"},
+        {"score": 3, "text": "I can't do any work at all"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q16",
+      "label": "BDI Q16",
+      "options": [
+        {"score": 0, "text": "I can sleep as well as usual"},
+        {"score": 1, "text": "I don't sleep as well as I used to"},
+        {"score": 2, "text": "I wake up 1–2 hours earlier than usual and find it hard to get back to sleep"},
+        {"score": 3, "text": "I wake up several hours earlier than I used to and cannot get back to sleep"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q17",
+      "label": "BDI Q17",
+      "options": [
+        {"score": 0, "text": "I don't get more tired than usual"},
+        {"score": 1, "text": "I get tired more easily than I used to"},
+        {"score": 2, "text": "I get tired from doing almost anything"},
+        {"score": 3, "text": "I am too tired to do anything"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q18",
+      "label": "BDI Q18",
+      "options": [
+        {"score": 0, "text": "My appetite is no worse than usual"},
+        {"score": 1, "text": "My appetite is not as good as it used to be"},
+        {"score": 2, "text": "My appetite is much worse now"},
+        {"score": 3, "text": "I have no appetite at all anymore"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q19",
+      "label": "BDI Q19",
+      "options": [
+        {"score": 0, "text": "I haven't lost much weight, if any, lately"},
+        {"score": 1, "text": "I have lost more than 5 pounds"},
+        {"score": 2, "text": "I have lost more than 10 pounds"},
+        {"score": 3, "text": "I have lost more than 15 pounds"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q20",
+      "label": "BDI Q20",
+      "options": [
+        {"score": 0, "text": "I am no more worried about my health than usual"},
+        {"score": 1, "text": "I am worried about physical problems like aches, pains, upset stomach, or constipation"},
+        {"score": 2, "text": "I am very worried about physical problems and it's hard to think of much else"},
+        {"score": 3, "text": "I am so worried about my physical problems that I cannot think about anything else"}
+      ]
+    },
+
+    {
+      "id": "BDI_Q21",
+      "label": "BDI Q21",
+      "options": [
+        {"score": 0, "text": "I have not noticed any recent change in my interest in sex"},
+        {"score": 1, "text": "I am less interested in sex than I used to be"},
+        {"score": 2, "text": "I am much less interested in sex now"},
+        {"score": 3, "text": "I have lost interest in sex completely"}
+      ]
+    }
+
+  ],
+
+  "scoring": {
+    "method": "sum",
+    "range": [0, 63],
+    "interpretation": {
+      "minimal": [0, 13],
+      "mild": [14, 19],
+      "moderate": [20, 28],
+      "severe": [29, 63]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Custom Questionnaire - Subscale Template",
+
+  "description": "Template for questionnaires with subscales and reverse scoring",
+
+  "instructions": "Rate how true each statement is for you.",
+
+  "scale": [1, 2, 3, 4, 5],
+
+  "scale_labels": {
+    "1": "Not at all true",
+    "2": "Slightly true",
+    "3": "Moderately true",
+    "4": "Very true",
+    "5": "Extremely true"
+  },
+
+  "questions": [
+    {
+      "id": "Q1",
+      "text": "I remain calm in stressful situations.",
+      "subscale": "Emotional_Stability"
+    },
+    {
+      "id": "Q2",
+      "text": "I often worry about things.",
+      "subscale": "Emotional_Stability"
+    },
+    {
+      "id": "Q3",
+      "text": "I enjoy meeting new people.",
+      "subscale": "Extraversion"
+    },
+    {
+      "id": "Q4",
+      "text": "I prefer staying alone.",
+      "subscale": "Extraversion"
+    }
+  ],
+
+  "reverse_items": ["Q1", "Q3"],
+
+  "subscales": {
+    "Emotional_Stability": ["Q1", "Q2"],
+    "Extraversion": ["Q3", "Q4"]
+  },
+
+  "scoring": {
+    "type": "sum",
+    "subscale_scores": true,
+    "total_score": true
+  }
+}

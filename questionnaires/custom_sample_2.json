@@ -1,0 +1,39 @@
+{
+  "name": "Custom Questionnaire - Simple",
+
+  "description": "Template for adding a simple Likert questionnaire",
+
+  "instructions": "Please indicate how much you agree with the following statements.",
+
+  "scale": [1, 2, 3, 4, 5], 
+
+  "scale_labels": {
+    "1": "Strongly Disagree",
+    "2": "Disagree",
+    "3": "Neutral",
+    "4": "Agree",
+    "5": "Strongly Agree"
+  },
+
+  "questions": [
+    {
+      "id": "Q1",
+      "text": "I enjoy solving complex problems."
+    },
+    {
+      "id": "Q2",
+      "text": "I feel confident when learning new skills."
+    },
+    {
+      "id": "Q3",
+      "text": "I prefer working independently."
+    }
+  ],
+
+  "reverse_items": [],
+
+  "scoring": {
+    "type": "sum",
+    "max_score": 15
+  }
+}
