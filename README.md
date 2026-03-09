@@ -80,7 +80,7 @@ Install required dependencies:
 ```
 pip install -r requirements.txt
 ```
-
+If the above installation fails, then try "conda install pandas pyyaml numpy"
 
 # Running the Application
 
