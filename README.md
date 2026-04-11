@@ -159,7 +159,7 @@ Utility functions including:
 Controls which questionnaires are loaded and general application settings.
 
 
-# Questionnaire System
+# Questionnaires
 
 All questionnaires are stored as **JSON files** inside the `questionnaires/` directory.
 
@@ -447,8 +447,11 @@ https://github.com/BhattacharyaArijit/psychology-assessment-toolkit.
   url = {https://github.com/BhattacharyaArijit/psychology-assessment-toolkit},
   note = {Python-based toolkit for administering psychological questionnaires}
 }
+## Contribution
 
-## Contribution and Collaboration
+Arijit Bhattacharya, Ashoka University
+
+## Collaboration
 
 Contributions and collaborations are welcome. This project is intended to grow as an open, research-oriented toolkit for administering psychological questionnaires and behavioral assessments. If you are interested in collaborating, contributing code, or using this toolkit for research projects, please feel free to reach out.
 
