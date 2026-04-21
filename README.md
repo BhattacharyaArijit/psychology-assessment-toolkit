@@ -300,7 +300,7 @@ If the scale is:
 1–5
 ```
 
-the reverse score is calculated as:
+The reverse score is calculated as:
 
 ```
 new_score = (max + 1) − original_score
@@ -434,8 +434,7 @@ Researchers are free to modify and extend the toolkit for academic or research p
 ## Citation
 
 Bhattacharya, A. (2026).
-Psychological Assessment Toolkit: A modular Python system
-for administering psychological questionnaires.
+Psychological Assessment Toolkit: Python-based toolkit for administering psychological questionnaires
 https://github.com/BhattacharyaArijit/psychology-assessment-toolkit.
 
 ## BibTeX version:
